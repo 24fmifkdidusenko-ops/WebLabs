@@ -1,0 +1,4 @@
+'node echo-args.js "hello world" "x y z"' 
+'Console output:' 
+ARG:hello world
+ARG:x y z
